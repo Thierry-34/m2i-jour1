@@ -1,5 +1,7 @@
-# m2i-jour1 -- DETION+GITHUB
+# m2i-jour1 -- EDITION+GITHUB
 
 titi ceci est mon fichier README sur GITHUB
 
-jhkdfsgklhdflkjhyqds
+c111111111111111111
+
+
